@@ -205,7 +205,7 @@
                     items: [
                         {
                             type: "category",
-                            label: "LAPI",
+                            label: "Main LAPI",
                             items: [
                                 "multiserver/lapi_bare_metal",
                                 "multiserver/lapi_container",

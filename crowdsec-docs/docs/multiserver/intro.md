@@ -10,7 +10,7 @@ When setting up a multi-server setup, you need to understand the role of each co
   - [Parsers logs locally](/docs/parsers/intro)
   - Matches them against [scenarios](/docs/scenarios/intro)
   - Sends the resulting alerts to the [local API](/docs/local_api/intro)
-- Security Engine (Log processor with LAPI enabled)
+- Security Engine (Log processor with LAPI enabled) Will be known as "main lapi" moving forward 
   - Receives the alerts and converts them into decisions based on your profile
   - Sends notifications based on the matching profiles if any
   - Communicates to CAPI to receive community blocklists and sends local alerts
@@ -25,12 +25,10 @@ A typical multi server setup should thus have:
 
 You can expand the dropdown menu to the left to see dedicated guides for each setup type:
 
-- Security Engine Setup
+- Main LAPI
   - Bare metal
-  - Docker
-  - Podman
-- Log Processor Setup
+  - Container (Docker/Podman)
+- Log Processors
   - Bare metal
-  - Docker
-  - Podman
+  - Container (Docker/Podman)
   
