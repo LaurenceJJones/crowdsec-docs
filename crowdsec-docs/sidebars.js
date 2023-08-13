@@ -195,7 +195,24 @@
                 "user_guides/replay_mode",
                 "user_guides/cscli_explain",
                 "user_guides/cscli_macos",
-                "user_guides/multiserver_setup",
+                {
+                    type: "category",
+                    label: "Multi-Server",
+                    link: {
+                        type: "doc",
+                        id: "multiserver/intro",
+                    },
+                    items: [
+                        {
+                            type: "category",
+                            label: "LAPI",
+                            items: [
+                                "multiserver/lapi_bare_metal",
+                                "multiserver/lapi_container",
+                            ]
+                        }
+                    ],
+                },
                 "user_guides/consuming_fastly_logs",
                 "user_guides/alert_context",
             ],
