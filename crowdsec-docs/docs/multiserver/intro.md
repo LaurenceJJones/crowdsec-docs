@@ -10,7 +10,7 @@ When setting up a multi-server setup, you need to understand the role of each co
   - [Parsers logs locally](/docs/parsers/intro)
   - Matches them against [scenarios](/docs/scenarios/intro)
   - Sends the resulting alerts to the [local API](/docs/local_api/intro)
-- Security Engine (Log processor with LAPI enabled) Will be known as "main lapi" moving forward 
+- Security Engine (Log processor with LAPI enabled) Will be known as "central lapi" moving forward 
   - Receives the alerts and converts them into decisions based on your profile
   - Sends notifications based on the matching profiles if any
   - Communicates to CAPI to receive community blocklists and sends local alerts
@@ -21,11 +21,15 @@ A typical multi server setup should thus have:
 
 - Multiple log processors, each one in charge of processing the logs of a given server/application
 - A single security engine, in charge of receiving the alerts from the log processors, and converting them into decisions
-  - If you wish to have a high availability setup, you can have multiple security engines, and use a load balancer to distribute the alerts to them (However, the security engines have to be configured to same underlying database as by default it uses SQLite)
+  - The security engine as described is a log processor with the LAPI enabled
+
+:::info
+High availability setup is achievable you can have multiple security engines (with agent part disabled), and use a load balancer to distribute the alerts to them (However, the security engines have to be configured to same underlying database as by default it uses SQLite)
+:::
 
 You can expand the dropdown menu to the left to see dedicated guides for each setup type:
 
-- Main LAPI
+- Central LAPI
   - Bare metal
   - Container (Docker/Podman)
 - Log Processors
