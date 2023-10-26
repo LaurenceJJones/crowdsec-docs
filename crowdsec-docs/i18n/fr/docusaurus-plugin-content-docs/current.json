@@ -1,0 +1,342 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Getting Started": {
+    "message": "Getting Started",
+    "description": "The label for category Getting Started in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Security Engine": {
+    "message": "Security Engine",
+    "description": "The label for category Security Engine in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Container": {
+    "message": "Container",
+    "description": "The label for category Container in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Remediation Components": {
+    "message": "Remediation Components",
+    "description": "The label for category Remediation Components in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.SDK": {
+    "message": "SDK",
+    "description": "The label for category SDK in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.User Guides": {
+    "message": "User Guides",
+    "description": "The label for category User Guides in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Data Sources": {
+    "message": "Data Sources",
+    "description": "The label for category Data Sources in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Parsers": {
+    "message": "Parsers",
+    "description": "The label for category Parsers in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Scenarios": {
+    "message": "Scenarios",
+    "description": "The label for category Scenarios in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Collections": {
+    "message": "Collections",
+    "description": "The label for category Collections in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Whitelists": {
+    "message": "Whitelists",
+    "description": "The label for category Whitelists in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Examples": {
+    "message": "Examples",
+    "description": "The label for category Examples in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Profiles": {
+    "message": "Profiles",
+    "description": "The label for category Profiles in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Notification plugins": {
+    "message": "Notification plugins",
+    "description": "The label for category Notification plugins in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.HTTP Plugin": {
+    "message": "HTTP Plugin",
+    "description": "The label for category HTTP Plugin in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Configuration": {
+    "message": "Configuration",
+    "description": "The label for category Configuration in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Observability": {
+    "message": "Observability",
+    "description": "The label for category Observability in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Local API": {
+    "message": "Local API",
+    "description": "The label for category Local API in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Central API": {
+    "message": "Central API",
+    "description": "The label for category Central API in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Expr": {
+    "message": "Expr",
+    "description": "The label for category Expr in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Contributing": {
+    "message": "Contributing",
+    "description": "The label for category Contributing in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Console": {
+    "message": "Console",
+    "description": "The label for category Console in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Decision Management": {
+    "message": "Decision Management",
+    "description": "The label for category Decision Management in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.link.Helm/K8s": {
+    "message": "Helm/K8s",
+    "description": "The label for link Helm/K8s in sidebar tutorialSidebar, linking to https://artifacthub.io/packages/helm/crowdsec/crowdsec"
+  },
+  "sidebar.tutorialSidebar.link.Docker Hub": {
+    "message": "Docker Hub",
+    "description": "The label for link Docker Hub in sidebar tutorialSidebar, linking to https://hub.docker.com/r/crowdsecurity/crowdsec"
+  },
+  "sidebar.tutorialSidebar.link.GHCR": {
+    "message": "GHCR",
+    "description": "The label for link GHCR in sidebar tutorialSidebar, linking to https://github.com/crowdsecurity/crowdsec/pkgs/container/crowdsec"
+  },
+  "sidebar.tutorialSidebar.link.Examples": {
+    "message": "Examples",
+    "description": "The label for link Examples in sidebar tutorialSidebar, linking to https://github.com/crowdsecurity/example-docker-compose"
+  },
+  "sidebar.tutorialSidebar.link.Third Party": {
+    "message": "Third Party",
+    "description": "The label for link Third Party in sidebar tutorialSidebar, linking to https://hub.crowdsec.net/browse/#bouncers"
+  },
+  "sidebar.tutorialSidebar.link.Swagger": {
+    "message": "Swagger",
+    "description": "The label for link Swagger in sidebar tutorialSidebar, linking to https://crowdsecurity.github.io/api_doc/capi/"
+  },
+  "sidebar.tutorialSidebar.doc.Concepts": {
+    "message": "Concepts",
+    "description": "The label for the doc item Concepts in sidebar tutorialSidebar, linking to the doc concepts"
+  },
+  "sidebar.tutorialSidebar.doc.AWS WAF": {
+    "message": "AWS WAF",
+    "description": "The label for the doc item AWS WAF in sidebar tutorialSidebar, linking to the doc bouncers/aws_waf"
+  },
+  "sidebar.tutorialSidebar.doc.BlockList Mirror": {
+    "message": "BlockList Mirror",
+    "description": "The label for the doc item BlockList Mirror in sidebar tutorialSidebar, linking to the doc bouncers/blocklist-mirror"
+  },
+  "sidebar.tutorialSidebar.doc.Cloudflare": {
+    "message": "Cloudflare",
+    "description": "The label for the doc item Cloudflare in sidebar tutorialSidebar, linking to the doc bouncers/cloudflare"
+  },
+  "sidebar.tutorialSidebar.doc.Cloudflare Workers": {
+    "message": "Cloudflare Workers",
+    "description": "The label for the doc item Cloudflare Workers in sidebar tutorialSidebar, linking to the doc bouncers/cloudflare-workers"
+  },
+  "sidebar.tutorialSidebar.doc.Custom": {
+    "message": "Custom",
+    "description": "The label for the doc item Custom in sidebar tutorialSidebar, linking to the doc bouncers/custom"
+  },
+  "sidebar.tutorialSidebar.doc.Fastly": {
+    "message": "Fastly",
+    "description": "The label for the doc item Fastly in sidebar tutorialSidebar, linking to the doc bouncers/fastly"
+  },
+  "sidebar.tutorialSidebar.doc.Firewall": {
+    "message": "Firewall",
+    "description": "The label for the doc item Firewall in sidebar tutorialSidebar, linking to the doc bouncers/firewall"
+  },
+  "sidebar.tutorialSidebar.doc.HAProxy": {
+    "message": "HAProxy",
+    "description": "The label for the doc item HAProxy in sidebar tutorialSidebar, linking to the doc bouncers/haproxy"
+  },
+  "sidebar.tutorialSidebar.doc.Ingress Nginx": {
+    "message": "Ingress Nginx",
+    "description": "The label for the doc item Ingress Nginx in sidebar tutorialSidebar, linking to the doc bouncers/ingress-nginx"
+  },
+  "sidebar.tutorialSidebar.doc.Magento 2": {
+    "message": "Magento 2",
+    "description": "The label for the doc item Magento 2 in sidebar tutorialSidebar, linking to the doc bouncers/magento"
+  },
+  "sidebar.tutorialSidebar.doc.MISP Feed Generator": {
+    "message": "MISP Feed Generator",
+    "description": "The label for the doc item MISP Feed Generator in sidebar tutorialSidebar, linking to the doc bouncers/misp-feed-generator"
+  },
+  "sidebar.tutorialSidebar.doc.Nginx": {
+    "message": "Nginx",
+    "description": "The label for the doc item Nginx in sidebar tutorialSidebar, linking to the doc bouncers/nginx"
+  },
+  "sidebar.tutorialSidebar.doc.OpenResty": {
+    "message": "OpenResty",
+    "description": "The label for the doc item OpenResty in sidebar tutorialSidebar, linking to the doc bouncers/openresty"
+  },
+  "sidebar.tutorialSidebar.doc.PHP": {
+    "message": "PHP",
+    "description": "The label for the doc item PHP in sidebar tutorialSidebar, linking to the doc getting_started/install_softagent"
+  },
+  "sidebar.tutorialSidebar.doc.PHP Library": {
+    "message": "PHP Library",
+    "description": "The label for the doc item PHP Library in sidebar tutorialSidebar, linking to the doc bouncers/php-lib"
+  },
+  "sidebar.tutorialSidebar.doc.Windows Firewall": {
+    "message": "Windows Firewall",
+    "description": "The label for the doc item Windows Firewall in sidebar tutorialSidebar, linking to the doc bouncers/windows_firewall"
+  },
+  "sidebar.tutorialSidebar.doc.Wordpress": {
+    "message": "Wordpress",
+    "description": "The label for the doc item Wordpress in sidebar tutorialSidebar, linking to the doc bouncers/wordpress"
+  },
+  "sidebar.tutorialSidebar.doc.Contributing": {
+    "message": "Contributing",
+    "description": "The label for the doc item Contributing in sidebar tutorialSidebar, linking to the doc contributing/contributing_bouncers"
+  },
+  "sidebar.tutorialSidebar.doc.Contact the team": {
+    "message": "Contact the team",
+    "description": "The label for the doc item Contact the team in sidebar tutorialSidebar, linking to the doc contact_team"
+  },
+  "sidebar.cscliSidebar.category.cscli alerts": {
+    "message": "cscli alerts",
+    "description": "The label for category cscli alerts in sidebar cscliSidebar"
+  },
+  "sidebar.cscliSidebar.category.cscli bouncers": {
+    "message": "cscli bouncers",
+    "description": "The label for category cscli bouncers in sidebar cscliSidebar"
+  },
+  "sidebar.cscliSidebar.category.cscli capi": {
+    "message": "cscli capi",
+    "description": "The label for category cscli capi in sidebar cscliSidebar"
+  },
+  "sidebar.cscliSidebar.category.cscli collections": {
+    "message": "cscli collections",
+    "description": "The label for category cscli collections in sidebar cscliSidebar"
+  },
+  "sidebar.cscliSidebar.category.cscli config": {
+    "message": "cscli config",
+    "description": "The label for category cscli config in sidebar cscliSidebar"
+  },
+  "sidebar.cscliSidebar.category.cscli console": {
+    "message": "cscli console",
+    "description": "The label for category cscli console in sidebar cscliSidebar"
+  },
+  "sidebar.cscliSidebar.category.cscli dashboard": {
+    "message": "cscli dashboard",
+    "description": "The label for category cscli dashboard in sidebar cscliSidebar"
+  },
+  "sidebar.cscliSidebar.category.cscli decisions": {
+    "message": "cscli decisions",
+    "description": "The label for category cscli decisions in sidebar cscliSidebar"
+  },
+  "sidebar.cscliSidebar.category.cscli hub": {
+    "message": "cscli hub",
+    "description": "The label for category cscli hub in sidebar cscliSidebar"
+  },
+  "sidebar.cscliSidebar.category.cscli lapi": {
+    "message": "cscli lapi",
+    "description": "The label for category cscli lapi in sidebar cscliSidebar"
+  },
+  "sidebar.cscliSidebar.category.cscli machines": {
+    "message": "cscli machines",
+    "description": "The label for category cscli machines in sidebar cscliSidebar"
+  },
+  "sidebar.cscliSidebar.category.cscli notifications": {
+    "message": "cscli notifications",
+    "description": "The label for category cscli notifications in sidebar cscliSidebar"
+  },
+  "sidebar.cscliSidebar.category.cscli parsers": {
+    "message": "cscli parsers",
+    "description": "The label for category cscli parsers in sidebar cscliSidebar"
+  },
+  "sidebar.cscliSidebar.category.cscli postoverflows": {
+    "message": "cscli postoverflows",
+    "description": "The label for category cscli postoverflows in sidebar cscliSidebar"
+  },
+  "sidebar.cscliSidebar.category.cscli scenarios": {
+    "message": "cscli scenarios",
+    "description": "The label for category cscli scenarios in sidebar cscliSidebar"
+  },
+  "sidebar.cscliSidebar.category.cscli support": {
+    "message": "cscli support",
+    "description": "The label for category cscli support in sidebar cscliSidebar"
+  },
+  "sidebar.cscliSidebar.category.cscli hubtest": {
+    "message": "cscli hubtest",
+    "description": "The label for category cscli hubtest in sidebar cscliSidebar"
+  },
+  "sidebar.cscliSidebar.category.cscli simulation": {
+    "message": "cscli simulation",
+    "description": "The label for category cscli simulation in sidebar cscliSidebar"
+  },
+  "sidebar.cscliSidebar.doc.cscli": {
+    "message": "cscli",
+    "description": "The label for the doc item cscli in sidebar cscliSidebar, linking to the doc cscli/cscli"
+  },
+  "sidebar.cscliSidebar.doc.cscli completion": {
+    "message": "cscli completion",
+    "description": "The label for the doc item cscli completion in sidebar cscliSidebar, linking to the doc cscli/cscli_completion"
+  },
+  "sidebar.cscliSidebar.doc.cscli explain": {
+    "message": "cscli explain",
+    "description": "The label for the doc item cscli explain in sidebar cscliSidebar, linking to the doc cscli/cscli_explain"
+  },
+  "sidebar.cscliSidebar.doc.cscli metrics": {
+    "message": "cscli metrics",
+    "description": "The label for the doc item cscli metrics in sidebar cscliSidebar, linking to the doc cscli/cscli_metrics"
+  },
+  "sidebar.cscliSidebar.doc.cscli version": {
+    "message": "cscli version",
+    "description": "The label for the doc item cscli version in sidebar cscliSidebar, linking to the doc cscli/cscli_version"
+  },
+  "sidebar.ctiApiSidebar.category.Taxonomy": {
+    "message": "Taxonomy",
+    "description": "The label for category Taxonomy in sidebar ctiApiSidebar"
+  },
+  "sidebar.ctiApiSidebar.category.Integrations": {
+    "message": "Integrations",
+    "description": "The label for category Integrations in sidebar ctiApiSidebar"
+  },
+  "sidebar.ctiApiSidebar.link.Swagger": {
+    "message": "Swagger",
+    "description": "The label for link Swagger in sidebar ctiApiSidebar, linking to https://crowdsecurity.github.io/cti-api/"
+  },
+  "sidebar.ctiApiSidebar.doc.Introduction": {
+    "message": "Introduction",
+    "description": "The label for the doc item Introduction in sidebar ctiApiSidebar, linking to the doc cti_api/intro"
+  },
+  "sidebar.ctiApiSidebar.doc.Getting Started": {
+    "message": "Getting Started",
+    "description": "The label for the doc item Getting Started in sidebar ctiApiSidebar, linking to the doc cti_api/getting_started"
+  },
+  "sidebar.betaSidebar.category.Preview Programs": {
+    "message": "Preview Programs",
+    "description": "The label for category Preview Programs in sidebar betaSidebar"
+  },
+  "sidebar.betaSidebar.category.Crowdsec v1.5": {
+    "message": "Crowdsec v1.5",
+    "description": "The label for category Crowdsec v1.5 in sidebar betaSidebar"
+  },
+  "sidebar.betaSidebar.category.Security Engine (Preview)": {
+    "message": "Security Engine (Preview)",
+    "description": "The label for category Security Engine (Preview) in sidebar betaSidebar"
+  },
+  "sidebar.betaSidebar.link.Helm/K8s": {
+    "message": "Helm/K8s",
+    "description": "The label for link Helm/K8s in sidebar betaSidebar, linking to https://artifacthub.io/packages/helm/crowdsec/crowdsec"
+  },
+  "sidebar.betaSidebar.link.Docker/Podman": {
+    "message": "Docker/Podman",
+    "description": "The label for link Docker/Podman in sidebar betaSidebar, linking to https://hub.docker.com/r/crowdsecurity/crowdsec"
+  },
+  "sidebar.betaSidebar.doc.Backup Guide": {
+    "message": "Backup Guide",
+    "description": "The label for the doc item Backup Guide in sidebar betaSidebar, linking to the doc preview/backup_guide"
+  },
+  "sidebar.betaSidebar.doc.Rollback to previous version": {
+    "message": "Rollback to previous version",
+    "description": "The label for the doc item Rollback to previous version in sidebar betaSidebar, linking to the doc preview/rollback"
+  }
+}

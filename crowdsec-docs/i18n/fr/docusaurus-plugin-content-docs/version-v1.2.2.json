@@ -1,0 +1,154 @@
+{
+  "version.label": {
+    "message": "v1.2.2",
+    "description": "The label for version v1.2.2"
+  },
+  "sidebar.tutorialSidebar.category.Getting Started": {
+    "message": "Getting Started",
+    "description": "The label for category Getting Started in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.User Guides": {
+    "message": "User Guides",
+    "description": "The label for category User Guides in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Data Sources": {
+    "message": "Data Sources",
+    "description": "The label for category Data Sources in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Parsers": {
+    "message": "Parsers",
+    "description": "The label for category Parsers in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Scenarios": {
+    "message": "Scenarios",
+    "description": "The label for category Scenarios in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Collections": {
+    "message": "Collections",
+    "description": "The label for category Collections in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Whitelists": {
+    "message": "Whitelists",
+    "description": "The label for category Whitelists in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Profiles": {
+    "message": "Profiles",
+    "description": "The label for category Profiles in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Notification plugins": {
+    "message": "Notification plugins",
+    "description": "The label for category Notification plugins in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Configuration": {
+    "message": "Configuration",
+    "description": "The label for category Configuration in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Observability": {
+    "message": "Observability",
+    "description": "The label for category Observability in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Local API": {
+    "message": "Local API",
+    "description": "The label for category Local API in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Central API": {
+    "message": "Central API",
+    "description": "The label for category Central API in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Expr": {
+    "message": "Expr",
+    "description": "The label for category Expr in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Contributing": {
+    "message": "Contributing",
+    "description": "The label for category Contributing in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.link.Swagger": {
+    "message": "Swagger",
+    "description": "The label for link Swagger in sidebar tutorialSidebar, linking to https://crowdsecurity.github.io/api_doc/capi/"
+  },
+  "sidebar.cscliSidebar.category.cscli alerts": {
+    "message": "cscli alerts",
+    "description": "The label for category cscli alerts in sidebar cscliSidebar"
+  },
+  "sidebar.cscliSidebar.category.cscli bouncers": {
+    "message": "cscli bouncers",
+    "description": "The label for category cscli bouncers in sidebar cscliSidebar"
+  },
+  "sidebar.cscliSidebar.category.cscli capi": {
+    "message": "cscli capi",
+    "description": "The label for category cscli capi in sidebar cscliSidebar"
+  },
+  "sidebar.cscliSidebar.category.cscli collections": {
+    "message": "cscli collections",
+    "description": "The label for category cscli collections in sidebar cscliSidebar"
+  },
+  "sidebar.cscliSidebar.category.cscli completion": {
+    "message": "cscli completion",
+    "description": "The label for category cscli completion in sidebar cscliSidebar"
+  },
+  "sidebar.cscliSidebar.category.cscli config": {
+    "message": "cscli config",
+    "description": "The label for category cscli config in sidebar cscliSidebar"
+  },
+  "sidebar.cscliSidebar.category.cscli console": {
+    "message": "cscli console",
+    "description": "The label for category cscli console in sidebar cscliSidebar"
+  },
+  "sidebar.cscliSidebar.category.cscli dashboard": {
+    "message": "cscli dashboard",
+    "description": "The label for category cscli dashboard in sidebar cscliSidebar"
+  },
+  "sidebar.cscliSidebar.category.cscli decisions": {
+    "message": "cscli decisions",
+    "description": "The label for category cscli decisions in sidebar cscliSidebar"
+  },
+  "sidebar.cscliSidebar.category.cscli hub": {
+    "message": "cscli hub",
+    "description": "The label for category cscli hub in sidebar cscliSidebar"
+  },
+  "sidebar.cscliSidebar.category.cscli explain": {
+    "message": "cscli explain",
+    "description": "The label for category cscli explain in sidebar cscliSidebar"
+  },
+  "sidebar.cscliSidebar.category.cscli lapi": {
+    "message": "cscli lapi",
+    "description": "The label for category cscli lapi in sidebar cscliSidebar"
+  },
+  "sidebar.cscliSidebar.category.cscli machines": {
+    "message": "cscli machines",
+    "description": "The label for category cscli machines in sidebar cscliSidebar"
+  },
+  "sidebar.cscliSidebar.category.cscli metrics": {
+    "message": "cscli metrics",
+    "description": "The label for category cscli metrics in sidebar cscliSidebar"
+  },
+  "sidebar.cscliSidebar.category.cscli parsers": {
+    "message": "cscli parsers",
+    "description": "The label for category cscli parsers in sidebar cscliSidebar"
+  },
+  "sidebar.cscliSidebar.category.cscli postoverflows": {
+    "message": "cscli postoverflows",
+    "description": "The label for category cscli postoverflows in sidebar cscliSidebar"
+  },
+  "sidebar.cscliSidebar.category.cscli scenarios": {
+    "message": "cscli scenarios",
+    "description": "The label for category cscli scenarios in sidebar cscliSidebar"
+  },
+  "sidebar.cscliSidebar.category.cscli hubtest": {
+    "message": "cscli hubtest",
+    "description": "The label for category cscli hubtest in sidebar cscliSidebar"
+  },
+  "sidebar.cscliSidebar.category.cscli simulation": {
+    "message": "cscli simulation",
+    "description": "The label for category cscli simulation in sidebar cscliSidebar"
+  },
+  "sidebar.cscliSidebar.category.cscli version": {
+    "message": "cscli version",
+    "description": "The label for category cscli version in sidebar cscliSidebar"
+  },
+  "sidebar.bouncersSidebar.link.Hub": {
+    "message": "Hub",
+    "description": "The label for link Hub in sidebar bouncersSidebar, linking to https://hub.crowdsec.net/browse/#bouncers"
+  }
+}
